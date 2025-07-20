@@ -1,0 +1,5 @@
+2025/05/20-11:11:16.117475 7fdbae7fc700 Recovering log #226
+2025/05/20-11:11:16.121199 7fdbae7fc700 Level-0 table #228: started
+2025/05/20-11:11:16.125162 7fdbae7fc700 Level-0 table #228: 111200 bytes OK
+2025/05/20-11:11:16.131240 7fdbae7fc700 Delete type=0 #226
+2025/05/20-11:11:16.131321 7fdbae7fc700 Delete type=3 #225

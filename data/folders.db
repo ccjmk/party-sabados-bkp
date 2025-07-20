@@ -1,0 +1,14 @@
+{"name":"Cena","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#c2c3c7","flags":{},"_id":"0vaG3pXHDunGRau4"}
+{"name":"drows","type":"Item","parent":"yY9hvI5EB7rJja8L","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6oWlvnEvhaablbLv"}
+{"name":"Cielo","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"CQSkgoMpIBAoD8t8"}
+{"_id":"G5RfxZeUNIN2BFdW","name":"Boda","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"VUb8pUFJeMf16NTJ","name":"Duel","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"spells","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Xr571BzGTPJifMKk"}
+{"_id":"bUi8x0ND24xD8dfS","name":"Wild","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"asdadasd","type":"Item","parent":"yY9hvI5EB7rJja8L","sorting":"a","sort":0,"color":null,"flags":{},"_id":"di7qy1GDtPMxjs5o"}
+{"_id":"dia5NOV1TMTZX9pQ","name":"CelestialColonnade","type":"Actor","parent":null,"sorting":"a","sort":-50000,"color":null,"flags":{}}
+{"_id":"eXPv2HVMrn46DCAY","name":"Ebano","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"EXC","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff0000","flags":{},"_id":"f2i4dGXTLmhFELXx"}
+{"_id":"kP29Cf7GNfZjV2Xy","name":"Amber","type":"Actor","parent":null,"sorting":"a","sort":-100000,"color":"","flags":{}}
+{"name":"amber","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"nzgxG6Cqy51oGE1n"}
+{"name":"exp","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"yY9hvI5EB7rJja8L"}
